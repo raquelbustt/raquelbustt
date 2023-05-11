@@ -1,8 +1,7 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Raquel
+# 👋 Hello! My name is Raquel and I'm a Data Engineer
 
 # 💫 About Me:
-🔭 I’m currently working on [Grupo Boticário](https://grupoboticario.gupy.io/);<br>🌱 I’m currently learning Pyspark, SQL, GCP;<br>💬 Ask me about AWS, Python;<br>🧑‍💻 All of me are available at https://www.linkedin.com/in/raquel-bustamante/;<br>⚡ Fun fact I'm an embroyder 🪡
+🔭 I’m currently working on [Grupo Boticário](https://grupoboticario.gupy.io/);<br>🌱 I’m currently learning <b>Pyspark, SQL, GCP</b>;<br>💬 Ask me about <b>AWS, Python</b>;<br>🧑‍💻 All of me are available at <b>https://www.linkedin.com/in/raquel-bustamante/</b>;<br>⚡ Fun fact <b>I'm an embroyder 🪡</b>
 
 
 ## 🌐 Socials:
