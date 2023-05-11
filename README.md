@@ -1,9 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Raquel
 
-<!--
-**raquelbustt/raquelbustt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on [Grupo Boticário](https://grupoboticario.gupy.io/);<br>🌱 I’m currently learning Pyspark, SQL, GCP;<br>💬 Ask me about AWS, Python;<br>🧑‍💻 All of me are available at https://www.linkedin.com/in/raquel-bustamante/;<br>⚡ Fun fact I'm an embroyder 🪡
 
