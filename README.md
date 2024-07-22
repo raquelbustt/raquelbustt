@@ -1,7 +1,7 @@
 # 👋 Hello! My name is Raquel and I'm a Data Engineer
 
 # 💫 About Me:
-🔭 I’m currently working on <b>[Grupo Boticário](https://grupoboticario.gupy.io/)</b>;<br>🌱 I’m currently learning <b>Pyspark, SQL, GCP</b>;<br>💬 Ask me about <b>AWS, Python</b>;<br>🧑‍💻 All of me are available at <b>https://www.linkedin.com/in/raquel-bustamante/</b>;<br>⚡ Fun fact <b>I'm an embroyder 🪡</b>
+🔭 I’m currently working on <b>[Grupo Boticário](https://grupoboticario.gupy.io/)</b>;<br>🌱 I’m currently learning <b>SQL e GCP</b>;<br>💬 Ask me about <b>AWS, Python, PySpark and GCP</b>;<br>🧑‍💻 All of me are available at <b>https://www.linkedin.com/in/raquel-bustamante/</b>;<br>⚡ Fun fact <b>I'm an embroyder 🪡</b>
 
 
 ## 🌐 Socials:
